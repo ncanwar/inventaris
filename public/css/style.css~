@@ -1,0 +1,68 @@
+/*
+Nur Cholikul Anwar
+www.JaringanKantor.com
+0856-917-44404
+*/
+@CHARSET "UTF-8";
+
+body {
+	font-size: 150%;
+}
+
+#hd {
+	height: 70px;
+}
+
+#logo_pnj {
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.pnj_header_text {
+	font-weight: bold;
+	padding-left:60px;
+	margin-top: 5px;
+}
+
+.pnj_header_slogan {
+	padding-left:60px;
+	font-style: italic;
+}
+
+#doc3 {
+	margin: 0;
+	padding: 0;
+	min-width: 800px;
+}
+
+#message {
+	width: auto;
+	background: #fff6bf url(../images/ico_exclamation.png) 15px center
+		no-repeat;
+	text-align: left;
+	font-style: italic;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #ffd324;
+	border-bottom: 2px solid #ffd324;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+#message ul {
+	list-style-type: circle;
+	padding-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+label {
+	width: 7em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+}
+
+.submit input {
+	margin-left: 7.5em;
+}

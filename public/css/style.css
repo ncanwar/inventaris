@@ -1,0 +1,91 @@
+/*
+Nur Cholikul Anwar
+www.JaringanKantor.com
+0856-917-44404
+*/
+@CHARSET "UTF-8";
+
+body {
+	font-size: 120%;
+}
+
+#hd {
+	height: 70px;
+}
+
+#logo_pnj {
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.pnj_header_text {
+	font-weight: bold;
+	padding-left: 60px;
+}
+
+.pnj_header_slogan {
+	padding-left: 60px;
+	font-style: italic;
+}
+
+#doc3 {
+	margin: 0;
+	padding: 0;
+	min-width: 800px;
+}
+
+.yui-g {
+	margin-top: 20px;
+}
+
+#message {
+	width: auto;
+	background: #fff6bf url(../images/ico_exclamation.png) 15px center
+		no-repeat;
+	text-align: left;
+	font-style: italic;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #ffd324;
+	border-bottom: 2px solid #ffd324;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+#message ul {
+	list-style-type: circle;
+	padding-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+label {
+	width: 8em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+}
+
+.baris_form {
+	padding-bottom: 12px;
+}
+
+.submit input {
+	margin-left: 8.5em;
+}
+
+/*Action List*/
+#actionlist li {
+	display: inline;
+	list-style-type: none;
+}
+
+#actionlist img {
+	border: 0px;
+}
+
+#myAutoComplete {
+	width: 300px;
+	/* set width here or else widget will expand to fit its container */
+	padding-bottom: 2em;
+}
